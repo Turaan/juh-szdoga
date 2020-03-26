@@ -1,0 +1,6 @@
+C:\Users\Turan\OneDrive\Asztali gép\Juhász doga\TuranBalazsfootgolf\TuranBalazsfootgolf\bin\Debug\TuranBalazsfootgolf.exe.config
+C:\Users\Turan\OneDrive\Asztali gép\Juhász doga\TuranBalazsfootgolf\TuranBalazsfootgolf\bin\Debug\TuranBalazsfootgolf.exe
+C:\Users\Turan\OneDrive\Asztali gép\Juhász doga\TuranBalazsfootgolf\TuranBalazsfootgolf\bin\Debug\TuranBalazsfootgolf.pdb
+C:\Users\Turan\OneDrive\Asztali gép\Juhász doga\TuranBalazsfootgolf\TuranBalazsfootgolf\obj\Debug\TuranBalazsfootgolf.csprojAssemblyReference.cache
+C:\Users\Turan\OneDrive\Asztali gép\Juhász doga\TuranBalazsfootgolf\TuranBalazsfootgolf\obj\Debug\TuranBalazsfootgolf.exe
+C:\Users\Turan\OneDrive\Asztali gép\Juhász doga\TuranBalazsfootgolf\TuranBalazsfootgolf\obj\Debug\TuranBalazsfootgolf.pdb
